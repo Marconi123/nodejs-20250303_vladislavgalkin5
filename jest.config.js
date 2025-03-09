@@ -8,4 +8,4 @@ export default {
   testPathIgnorePatterns: ["/node_modules/", "/dist/"],
 };
 
-console.log(`Test`);
+console.log(`Testok`);
