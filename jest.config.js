@@ -7,5 +7,3 @@ export default {
   },
   testPathIgnorePatterns: ["/node_modules/", "/dist/"],
 };
-
-console.log(`Testok`);
